@@ -1,0 +1,26 @@
+.navbar-brand{
+    width: 9%;
+    padding: 2px 20px;
+background: url('../../../assets/images/Logo.png') no-repeat left;
+
+}
+.navbar-header{
+    width: 50%;
+}
+.navbar-brand a{
+    float:left;
+    margin: 11px 28px;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.navbar-header span{
+    font-size: 12px;
+    float: left;
+    margin: 35px 0px 0px 0px;
+}
+.text-muted{
+    color: #b91515;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}

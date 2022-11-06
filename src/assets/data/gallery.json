@@ -1,0 +1,251 @@
+[
+    {
+      "preview_xxs": {"path": "../../assets/gallery/2.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/gallery/2.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/gallery/2.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/gallery/2.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/gallery/2.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/gallery/2.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/gallery/2.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },{
+        "preview_xxs": {"path": "../../assets/gallery/3.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/3.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/3.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/3.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/3.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/3.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/3.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/4.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/4.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/4.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/4.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/4.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/4.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/4.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/5.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/5.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/5.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/5.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/5.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/5.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/5.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/6.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/6.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/6.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/6.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/6.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/6.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/6.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/9.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/9.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/9.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/9.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/9.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/9.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/9.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/10.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/10.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/10.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/10.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/10.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/10.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/10.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/11.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/11.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/11.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/11.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/11.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/11.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/11.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/12.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/12.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/12.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/12.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/12.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/12.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/12.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/15.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/15.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/15.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/15.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/15.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/15.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/15.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/16.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/16.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/16.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/16.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/16.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/16.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/16.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/17.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/17.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/17.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/17.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/17.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/17.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/17.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/18.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/18.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/18.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/18.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/18.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/18.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/18.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/19.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/19.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/19.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/19.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/19.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/19.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/19.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/21.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/21.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/21.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/21.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/21.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/21.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/21.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/22.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/22.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/22.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/22.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/22.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/22.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/22.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/24.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/24.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/24.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/24.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/24.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/24.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/24.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/26.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/26.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/26.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/26.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/26.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/26.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/26.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/27.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/27.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/27.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/27.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/27.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/27.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/27.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/28.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/28.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/28.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/28.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/28.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/28.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/28.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/29.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/29.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/29.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/29.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/29.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/29.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/29.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/30.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/30.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/30.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/30.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/30.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/30.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/30.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/31.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/31.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/31.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/31.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/31.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/31.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/31.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/32.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/32.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/32.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/32.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/32.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/32.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/32.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      },
+      {
+        "preview_xxs": {"path": "../../assets/gallery/33.jpg","width": 500,"height": 375},
+        "preview_xs": {"path": "../../assets/gallery/33.jpg","width": 1024,"height": 768},
+        "preview_s": {"path": "../../assets/gallery/33.jpg","width": 1440,"height": 1080},
+        "preview_m": {"path": "../../assets/gallery/33.jpg","width": 2133,"height": 1600},
+        "preview_l": {"path": "../../assets/gallery/33.jpg","width": 2880,"height": 2160},
+        "preview_xl": {"path": "../../assets/gallery/33.jpg","width": 3840,"height": 2880},
+        "raw": {"path": "../../assets/gallery/33.jpg","width": 1400,"height": 1050},
+        "dominantColor": "#a6a6a6"
+      }
+  ]

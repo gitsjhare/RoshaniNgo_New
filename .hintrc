@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/language": [
+      "default",
+      {
+        "html-has-lang": "on"
+      }
+    ],
+    "meta-viewport": "off",
+    "compat-api/css": "off"
+  }
+}

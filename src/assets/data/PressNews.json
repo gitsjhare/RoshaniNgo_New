@@ -1,0 +1,492 @@
+[
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2005/20050616.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2005/20050616.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2005/20050616.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2005/20050616.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2005/20050616.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2005/20050616.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2005/20050616.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2005/20051129.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2005/20051129.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2005/20051129.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2005/20051129.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2005/20051129.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2005/20051129.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2005/20051129.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2005/20051203.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2005/20051203.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2005/20051203.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2005/20051203.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2005/20051203.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2005/20051203.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2005/20051203.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2005/20051219.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2005/20051219.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2005/20051219.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2005/20051219.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2005/20051219.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2005/20051219.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2005/20051219.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/2006_1.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/2006_1.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/2006_1.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/2006_1.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/2006_1.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/2006_1.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/2006_1.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20060111.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20060111.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20060111.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20060111.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20060111.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20060111.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20060111.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20060906.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20060906.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20060906.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20060906.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20060906.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20060906.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20060906.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20060912.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20060912.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20060912.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20060912.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20060912.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20060912.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20060912.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20060930.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20060930.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20060930.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20060930.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20060930.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20060930.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20060930.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20061001.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20061001.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20061001.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20061001.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20061001.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20061001.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20061001.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20061004.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20061004.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20061004.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20061004.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20061004.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20061004.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20061004.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20061005.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20061005.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20061005.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20061005.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20061005.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20061005.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20061005.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20061123.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20061123.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20061123.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20061123.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20061123.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20061123.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20061123.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20061124.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20061124.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20061124.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20061124.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20061124.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20061124.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20061124.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20061125.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20061125.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20061125.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20061125.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20061125.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20061125.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20061125.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/20061212.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/20061212.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/20061212.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/20061212.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/20061212.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/20061212.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/20061212.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/200610041.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/200610041.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/200610041.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/200610041.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/200610041.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/200610041.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/200610041.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2006/200611251.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2006/200611251.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2006/200611251.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2006/200611251.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2006/200611251.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2006/200611251.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2006/200611251.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070105.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070105.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070105.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070105.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070105.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070105.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070105.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070106.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070106.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070106.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070106.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070106.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070106.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070106.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070222.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070222.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070222.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070222.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070222.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070222.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070222.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070309.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070309.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070309.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070309.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070309.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070309.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070309.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070312.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070312.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070312.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070312.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070312.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070312.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070312.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070422.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070422.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070422.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070422.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070422.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070422.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070422.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070426.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070426.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070426.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070426.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070426.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070426.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070426.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070509.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070509.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070509.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070509.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070509.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070509.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070509.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20070515.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20070515.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20070515.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20070515.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20070515.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20070515.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20070515.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20071024.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20071024.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20071024.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20071024.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20071024.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20071024.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20071024.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/20071231.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/20071231.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/20071231.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/20071231.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/20071231.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/20071231.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/20071231.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2007/200705091.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2007/200705091.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2007/200705091.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2007/200705091.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2007/200705091.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2007/200705091.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2007/200705091.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080108.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080108.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080108.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080108.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080108.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080108.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080108.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080208.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080208.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080208.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080208.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080208.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080208.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080208.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080224.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080224.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080224.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080224.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080224.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080224.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080224.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080226.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080226.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080226.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080226.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080226.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080226.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080226.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080405.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080405.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080405.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080405.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080405.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080405.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080405.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080413.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080413.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080413.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080413.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080413.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080413.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080413.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080512.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080512.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080512.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080512.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080512.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080512.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080512.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080521.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080521.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080521.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080521.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080521.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080521.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080521.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20080614.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20080614.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20080614.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20080614.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20080614.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20080614.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20080614.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20081116.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20081116.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20081116.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20081116.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20081116.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20081116.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20081116.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/20081228.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/20081228.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/20081228.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/20081228.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/20081228.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/20081228.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/20081228.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/200805211.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/200805211.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/200805211.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/200805211.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/200805211.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/200805211.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/200805211.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/2008/200805212.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/2008/200805212.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/2008/200805212.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/2008/200805212.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/2008/200805212.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/2008/200805212.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/2008/200805212.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/unknown/01.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/unknown/01.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/unknown/01.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/unknown/01.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/unknown/01.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/unknown/01.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/unknown/01.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/unknown/02.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/unknown/02.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/unknown/02.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/unknown/02.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/unknown/02.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/unknown/02.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/unknown/02.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/unknown/03.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/unknown/03.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/unknown/03.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/unknown/03.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/unknown/03.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/unknown/03.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/unknown/03.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/unknown/04.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/unknown/04.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/unknown/04.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/unknown/04.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/unknown/04.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/unknown/04.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/unknown/04.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/unknown/05.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/unknown/05.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/unknown/05.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/unknown/05.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/unknown/05.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/unknown/05.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/unknown/05.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    },
+    {
+      "preview_xxs": {"path": "/assets/pressnews/unknown/06.jpg", "width": 500, "height": 375 },
+      "preview_xs":  {"path": "/assets/pressnews/unknown/06.jpg",  "width": 1024, "height": 768 },
+      "preview_s":   {"path": "/assets/pressnews/unknown/06.jpg",  "width": 1440, "height": 1080 },
+      "preview_m":   {"path": "/assets/pressnews/unknown/06.jpg",  "width": 2133, "height": 1600 },
+      "preview_l":   {"path": "/assets/pressnews/unknown/06.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl":  {"path": "/assets/pressnews/unknown/06.jpg", "width": 3840, "height": 2880 },
+      "raw":         {"path": "/assets/pressnews/unknown/06.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+    }
+]    
