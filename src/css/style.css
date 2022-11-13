@@ -13,8 +13,9 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%; }
+  /* -ms-text-size-adjust: 100%; */
+  /* -webkit-text-size-adjust: 100%;  */
+}
 
 body {
   margin: 0; }
@@ -1021,7 +1022,8 @@ td, th {
 
 html {
   font-size: 10px;
-  -webkit-tap-highlight-color: transparent; }
+ /*  -webkit-tap-highlight-color: transparent;  */
+}
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -5506,7 +5508,7 @@ pre {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  /* *display: inline; */
   width: 25px;
   height: 3px;
   color: #000;
