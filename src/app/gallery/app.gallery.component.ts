@@ -1,6 +1,4 @@
 import {Component} from '@angular/core';
-//import * as $ from 'jquery';
-//import * as Data from '../../assets/data/gallery.json';
 
 @Component({
     selector:'Roshani-Gallery',
