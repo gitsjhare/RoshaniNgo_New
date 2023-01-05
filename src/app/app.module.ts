@@ -10,6 +10,7 @@ import{routing} from './app.routes';
 import {AboutRoshani} from './about/app.about.component';
 import {Gallery} from './gallery/app.gallery.component';
 import {Press} from './pressrelease/app.press.component';
+import {Organization} from './organization/app.organization.Component';
 import {Angular2ImageGalleryModule} from 'angular2-image-gallery';
 import{BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
@@ -24,8 +25,8 @@ import { HttpClientModule } from '@angular/common/http';
     FooterComponent,
     AboutRoshani,
     Gallery,
-    Press
-
+    Press,
+    Organization
   ],
   imports: [
     BrowserModule,

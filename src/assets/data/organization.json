@@ -1,5 +1,162 @@
 [
   {
-
-  }
+    "preview_xxs": {"path": "../../assets/organization/1.jpeg", "width": 500, "height": 375 },
+    "preview_xs": {"path": "../../assets/organization/1.jpeg",  "width": 1024, "height": 768 },
+    "preview_s": { "path": "../../assets/organization/1.jpeg",  "width": 1440, "height": 1080 },
+    "preview_m": { "path": "../../assets/organization/1.jpeg",  "width": 2133, "height": 1600 },
+    "preview_l": { "path": "../../assets/organization/1.jpeg",  "width": 2880, "height": 2160 },
+    "preview_xl": { "path": "../../assets/organization/1.jpeg", "width": 3840, "height": 2880 },
+    "raw": { "path": "../../assets/organization/1.jpeg", "width": 1400, "height": 1050 },
+    "dominantColor": "#a6a6a6"
+  },
+  {
+  "preview_xxs": {"path": "../../assets/organization/2.jpeg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/2.jpeg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/2.jpeg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/2.jpeg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/2.jpeg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/2.jpeg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/2.jpeg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/3.jpeg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/3.jpeg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/3.jpeg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/3.jpeg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/3.jpeg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/3.jpeg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/3.jpeg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/12A_1.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/12A_1.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/12A_1.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/12A_1.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/12A_1.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/12A_1.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/12A_1.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/12A_2.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/12A_2.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/12A_2.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/12A_2.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/12A_2.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/12A_2.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/12A_2.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/80G_1.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/80G_1.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/80G_1.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/80G_1.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/80G_1.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/80G_1.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/80G_1.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/80G_2.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/80G_2.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/80G_2.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/80G_2.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/80G_2.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/80G_2.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/80G_2.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/CSR.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/CSR.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/CSR.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/CSR.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/CSR.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/CSR.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/CSR.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/MSME.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/MSME.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/MSME.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/MSME.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/MSME.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/MSME.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/MSME.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/NGO_Darpan_1.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/NGO_Darpan_1.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/NGO_Darpan_1.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/NGO_Darpan_1.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/NGO_Darpan_1.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/NGO_Darpan_1.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/NGO_Darpan_1.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/NGO_Darpan_2.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/NGO_Darpan_2.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/NGO_Darpan_2.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/NGO_Darpan_2.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/NGO_Darpan_2.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/NGO_Darpan_2.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/NGO_Darpan_2.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/NGO_Darpan_3.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/NGO_Darpan_3.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/NGO_Darpan_3.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/NGO_Darpan_3.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/NGO_Darpan_3.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/NGO_Darpan_3.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/NGO_Darpan_3.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/TP_DA_1.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/TP_DA_1.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/TP_DA_1.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/TP_DA_1.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/TP_DA_1.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/TP_DA_1.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/TP_DA_1.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/TP_DA_2.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/TP_DA_2.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/TP_DA_2.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/TP_DA_2.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/TP_DA_2.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/TP_DA_2.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/TP_DA_2.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/TP_DA_3.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/TP_DA_3.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/TP_DA_3.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/TP_DA_3.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/TP_DA_3.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/TP_DA_3.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/TP_DA_3.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+},
+{
+  "preview_xxs": {"path": "../../assets/organization/TP_DA_4.jpg", "width": 500, "height": 375 },
+      "preview_xs": {"path": "../../assets/organization/TP_DA_4.jpg",  "width": 1024, "height": 768 },
+      "preview_s": { "path": "../../assets/organization/TP_DA_4.jpg",  "width": 1440, "height": 1080 },
+      "preview_m": { "path": "../../assets/organization/TP_DA_4.jpg",  "width": 2133, "height": 1600 },
+      "preview_l": { "path": "../../assets/organization/TP_DA_4.jpg",  "width": 2880, "height": 2160 },
+      "preview_xl": { "path": "../../assets/organization/TP_DA_4.jpg", "width": 3840, "height": 2880 },
+      "raw": { "path": "../../assets/organization/TP_DA_4.jpg", "width": 1400, "height": 1050 },
+      "dominantColor": "#a6a6a6"
+}
 ]
